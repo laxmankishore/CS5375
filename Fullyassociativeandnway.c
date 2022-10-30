@@ -379,11 +379,11 @@ int main(int argc, char *argv[])
     switch (option)
     {
     case 1:
-        ImplementNwayAssociativeMappingQuestion1();
+        ImplementNwayAssociativeMappingforQuestion1();
         break;
 
     case 2:
-        ImplementNwayAssociativeMappingQuestion2();
+        ImplementNwayAssociativeMappingforQuestion2();
         break;
     }
 }
